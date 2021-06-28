@@ -1,0 +1,22 @@
+{
+  "name": "node-readline-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Source/Index.js",
+  "scripts": {
+    "test": "node ./Source/Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/Node-Readline-Tutorial.git"
+  },
+  "author": "Defective Detective",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/Node-Readline-Tutorial/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/Node-Readline-Tutorial#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
