@@ -4,7 +4,8 @@
   "description": "",
   "main": "./Source/Index.js",
   "scripts": {
-    "test": "node ./Source/Index.js"
+    "test": "node ./Source/Index.js",
+    "calc": "node ./Source/Calculator.js"
   },
   "repository": {
     "type": "git",
