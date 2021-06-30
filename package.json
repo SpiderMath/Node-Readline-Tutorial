@@ -4,8 +4,7 @@
   "description": "",
   "main": "./Source/Index.js",
   "scripts": {
-    "test": "node ./Source/Index.js",
-    "otc": "node ./Source/OneTimeCalculator.js"
+    "test": "node ./Source/Index.js"
   },
   "repository": {
     "type": "git",
